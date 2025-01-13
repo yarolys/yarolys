@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Ярослав!</h1>
+<h1 align="center">Hi👋 I`m Yaroslav Lysov!</h1>
 
 ###
 
@@ -24,15 +24,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я начинающий Python Backend-разработчик с опытом работы в команде. Мой путь в IT начался с участия в интенсиве Школы 21 от Сбера, где я освоил основы программирования и получил первые навыки работы с кодом. После завершения интенсива я экспериментировал с разными направлениями: изучал языки C и C#, разрабатывал функционал для скачивания клиентов Minecraft из официального публичного хранилища Microsoft. Эти проекты позволили мне лучше понять, какие задачи мне интересны, и я нашел себя в разработке ботов.
+<p align="left">I am a beginner Python Backend developer with experience working in a team. My path in IT began with participation in the intensive course of School 21 from Sber, where I mastered the basics of programming and acquired my first skills in working with code. After completing the intensive course, I experimented with different areas: I studied the C and C# languages, developed functionality for downloading Minecraft clients from the official public Microsoft repository. These projects allowed me to better understand what tasks are interesting to me, and I found myself in developing bots.
 
-На текущий момент я активно развиваюсь в Python-разработке, решая нестандартные задачи, которые сам себе придумываю. Это помогает мне не только углублять знания, но и изучать новые подходы и технологии.
+At the moment, I am actively developing in Python development, solving non-standard tasks that I come up with for myself. This helps me not only to deepen my knowledge, but also to learn new approaches and technologies.
 
-Я также имею опыт работы в компании, где занимался разработкой на Python в команде профессионалов. Однако компания изменила направление бизнеса, что стало причиной моего ухода. Сейчас я открыт для новых возможностей, стремлюсь развивать свои навыки и делать вклад в интересные и сложные проекты.</p>
+I also have experience working in a company where I was engaged in Python development in a team of professionals. However, the company changed its business direction, which was the reason for my departure. Now I am open to new opportunities, strive to develop my skills and contribute to interesting and complex projects.</p>
 
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 My stack:</h3>
 
 ###
 
@@ -51,7 +51,7 @@
                     
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   GitHub stats :</h3>
 
 
 ###
