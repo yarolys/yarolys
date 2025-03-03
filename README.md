@@ -28,11 +28,13 @@
 
 ###
 
-<p align="left">I am a beginner Python Backend developer with experience working in a team. My path in IT began with participation in the intensive course of School 21 from Sber, where I mastered the basics of programming and acquired my first skills in working with code. After completing the intensive course, I experimented with different areas: I studied the C and C# languages, developed functionality for downloading Minecraft clients from the official public Microsoft repository. These projects allowed me to better understand what tasks are interesting to me, and I found myself in developing bots.
+<p align="left">I am a beginner backend developer specializing in Python with experience working in a team. My journey in IT began with an intensive course at Sberbank’s "School 21," where I learned the fundamentals of programming and gained my first hands-on coding experience.
 
-At the moment, I am actively developing in Python development, solving non-standard tasks that I come up with for myself. This helps me not only to deepen my knowledge, but also to learn new approaches and technologies.
+After completing the course, I experimented in different fields: I studied C and C#, developed functionality for downloading Minecraft clients from Microsoft's official public repository. These projects helped me understand what kind of tasks interest me the most, and eventually, I focused on bot development.
 
-I also have experience working in a company where I was engaged in Python development in a team of professionals. However, the company changed its business direction, which was the reason for my departure. Now I am open to new opportunities, strive to develop my skills and contribute to interesting and complex projects.</p>
+Currently, I actively code in Python, come up with and solve non-standard tasks, which allows me to deepen my knowledge and explore new technologies. I have experience working in a team, where I not only wrote code but also analyzed and improved existing projects, suggested solutions, and collaborated with others.
+
+I am now open to new opportunities and eager to take on exciting and challenging projects that will help me grow as a developer.</p>
 
 
 <p align="center">
